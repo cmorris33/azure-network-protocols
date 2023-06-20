@@ -35,7 +35,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/OdwmkoV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To create a resource group in Azure, sign in to the Azure portal, navigate to the Resource Groups page, click on "Add," provide the basic details such as subscription, resource group name, and region, click on "Review + create," and then click on "Create" to create the resource group. Once created, you can start adding Azure resources to the resource group for better organization and management.
@@ -43,7 +43,7 @@ To create a resource group in Azure, sign in to the Azure portal, navigate to th
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/0Xh5zQQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 When creating a Windows 10 virtual machine in Azure, follow these steps. First, sign in to the Azure portal using your credentials. Then, navigate to the "Virtual machines" page. Click on "Add" to start creating a new virtual machine. In the Basics tab, provide details such as subscription, resource group, virtual machine name, region, and availability options. Choose the appropriate image for Windows 10, select the desired size, and configure the administrative account credentials. In the Networking tab, set up the virtual network, subnet, and public IP settings. Proceed to the Management and Advanced tabs to configure additional options if needed. Finally, review the settings and click on "Review + create." Once the validation passes, click on "Create" to deploy the Windows 10 virtual machine. Azure will start provisioning the resources, and you can monitor the progress from the portal. After the deployment is complete, you can connect to your Windows 10 virtual machine and start utilizing it for your desired purposes.
@@ -51,7 +51,7 @@ When creating a Windows 10 virtual machine in Azure, follow these steps. First, 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/SZTcP5G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Navigate to the "Virtual machines" page and click on "Add" to initiate the creation process. In the Basics tab, provide details such as subscription, resource group, virtual machine name, region, and availability options. Choose the desired Ubuntu image from the Azure Marketplace, select the appropriate size, and configure the administrative account credentials. In the Networking tab, set up the virtual network, subnet, and public IP settings. Proceed to the Management and Advanced tabs to configure additional options if needed. Review the settings and click on "Review + create." Once the validation passes, click on "Create" to start the deployment of the Ubuntu virtual machine. Azure will begin provisioning the necessary resources, and you can monitor the progress from the portal. Once the deployment is complete, you can connect to your Ubuntu virtual machine and start utilizing it for your desired purpose.
@@ -59,7 +59,7 @@ Navigate to the "Virtual machines" page and click on "Add" to initiate the creat
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/EW6gyRH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 ICMP Traffic 
@@ -67,7 +67,7 @@ ICMP Traffic
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/2QnOTis.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 SSH Traffic 
@@ -75,7 +75,7 @@ SSH Traffic
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/k0ba8tS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 DHCP Traffic 
@@ -83,7 +83,7 @@ DHCP Traffic
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/KEpZDqL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 DNS Traffic 
@@ -91,7 +91,7 @@ DNS Traffic
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gLpDSWE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  RDP Traffic 
